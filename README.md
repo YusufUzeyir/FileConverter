@@ -1,1 +1,2 @@
-# FileConverter
+-If these libraries are not installed, you can install them with the <b>"pip install fpdf2 Pillow python-docx pdf2docx"</b> command. <br>
+-The default file save location was set to the downloads folder.
